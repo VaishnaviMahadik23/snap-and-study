@@ -11,7 +11,7 @@ The application uses **Google Gemini's multimodal AI capabilities** to analyze u
 
 ## 🚀 Live Demo
 
-🔗 **Try Snap & Study:** [Open Live Application]([https://snap-and-study-from.streamlit.app/](https://snap-and-study-from.streamlit.app/))
+🔗 **Try Snap & Study:** [Open Live Application](https://snap-and-study-from.streamlit.app/)
 
 ---
 ## 📌 Problem Statement
