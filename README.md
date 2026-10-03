@@ -2,9 +2,6 @@
 
 ### AI-Powered Visual Learning Assistant
 
-## 🚀 Live Demo
-
-🔗 **Try Snap & Study:** [Open Live Application]([https://snap-and-study-from.streamlit.app/](https://snap-and-study-from.streamlit.app/))
 
 Snap & Study is an AI-powered educational web application that helps students understand questions, handwritten notes, diagrams, and other study material by simply uploading an image.
 
@@ -12,6 +9,11 @@ The application uses **Google Gemini's multimodal AI capabilities** to analyze u
 
 ---
 
+## 🚀 Live Demo
+
+🔗 **Try Snap & Study:** [Open Live Application]([https://snap-and-study-from.streamlit.app/](https://snap-and-study-from.streamlit.app/))
+
+---
 ## 📌 Problem Statement
 
 Students often encounter difficult questions, diagrams, handwritten notes, or study material that require additional explanation.
